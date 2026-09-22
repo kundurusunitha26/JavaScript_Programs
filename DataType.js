@@ -1,0 +1,12 @@
+let name="SUNITHA REDDY";
+console.log("Name is: "+name);
+let age=20;
+let salary=20000;
+console.log("Age is: "+age);
+console.log("Salary is: "+salary);
+let isStudent=true;
+console.log("Is Student: "+isStudent);
+let x;
+console.log("Value of x is: "+x);
+let result=null;
+console.log("Value of result is: "+result);
